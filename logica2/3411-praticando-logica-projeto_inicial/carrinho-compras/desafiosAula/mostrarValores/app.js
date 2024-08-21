@@ -3,5 +3,5 @@ function mostrarValores(){
     let idade = document.getElementById("age").value;
     let altura = document.getElementById("height").value;
 
-    alert(`Nome: ${nome} - Idade: ${idade} - Altura: ${altura}cm`)
+    alert(`Nome: ${nome} - Idade: ${idade} - Altura: ${altura}cm`);
 }
